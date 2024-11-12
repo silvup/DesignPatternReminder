@@ -26,4 +26,4 @@ Observer\
 State\
 Strategy\
 Template method\
-Visitor\
+Visitor
